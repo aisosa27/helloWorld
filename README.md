@@ -13,9 +13,6 @@ This is a basic Hello World program. I crerated this to demonstrate the use of V
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
-
 * [Github](https://github.com)
 
 
